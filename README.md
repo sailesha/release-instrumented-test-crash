@@ -31,9 +31,10 @@ java.lang.NoSuchMethodError: No virtual method isZero()Z in class Lj$/time/Durat
 ```
 
 ## Steps
-Open app in Android Studio
-Click Build -> Select Build Variant -> Release
-Run ExampleInstrumentedTest
+
+ - Open app in Android Studio
+ - Click Build -> Select Build Variant -> Release
+ - Run ExampleInstrumentedTest
 
 ## Notes
 

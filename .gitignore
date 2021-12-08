@@ -1,0 +1,5 @@
+# Directories
+**/*.iml
+**/.idea/*
+**/.gradle/
+local.properties
